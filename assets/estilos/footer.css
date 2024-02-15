@@ -1,0 +1,45 @@
+.container {
+    background-color: blue;
+    padding: 20;
+}
+
+.footer {
+    background-color: black;
+    padding: 20px;
+}
+
+.socialMedia {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    margin-bottom: 10px;
+}
+
+.buttonsContainer {
+    flex-Direction: 'row';
+    justify-Content: 'space-between';
+    margin-top: 10px;
+}
+
+.downloadSites {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin-bottom: 10px;
+}
+
+.logo {
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+}
+
+.footerLinks {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.link {
+    color: white;
+}

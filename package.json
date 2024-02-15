@@ -1,0 +1,25 @@
+{
+  "name": "prueba-tecnica-react-developer-main",
+  "version": "1.0.0",
+  "description": "![](assets/logo-gray.png) # Prueba técnica — React developer",
+  "main": "node_modules/expo/AppEntry.js",
+  "type": "module",
+  "scripts": {
+    "start": "expo start",
+    "dev": "node App.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@react-navigation/native": "^6.1.10",
+    "@react-navigation/native-stack": "^6.9.18",
+    "@reduxjs/toolkit": "^2.1.0",
+    "expo": "^50.0.6",
+    "node": "^21.6.1",
+    "react": "^18.2.0",
+    "react-hooks": "^1.0.1",
+    "react-native": "^0.73.4",
+    "react-redux": "^9.1.0",
+    "redux": "^5.0.1"
+  }
+}
